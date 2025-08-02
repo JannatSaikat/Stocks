@@ -1,0 +1,2 @@
+body{background:#f0f2f5;font-family:sans-serif;margin:0}.grid{grid-gap:1rem;display:grid;gap:1rem;grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}.card,.grid{padding:1rem}.card{background:#fff;border-radius:8px;box-shadow:0 2px 6px #0000001a;text-align:center}.up{color:green}.down{color:red}
+/*# sourceMappingURL=main.a72e0e8d.css.map*/
